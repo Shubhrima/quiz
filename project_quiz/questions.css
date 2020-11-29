@@ -1,0 +1,153 @@
+h1{
+	font-family: cursive;
+	text-align: center;
+	line-height: 1.5em;
+	padding: 2%;
+	font-weight: bold;
+	background-color: #e8ffff;
+}
+
+@media only screen and (min-width: 700px ){
+	h1:hover{
+	font-size: 5em;
+	transition-duration: 1s;
+	color: navy;
+}
+}
+main{
+	background-color: #f4f6ff;
+}
+.question_answer{
+	text-align: center;
+}
+
+h6{
+	font-weight: bold;
+	font-family: "Architect's Daughter", cursive;
+	margin: 2% 0%;
+	text-decoration: blink;
+	padding: 1%;
+}
+
+.info ul li{
+	align-content: center;
+	list-style-type: none;
+}
+
+.question_answer li{
+	list-style-type: none;
+	margin: 1% 25%;
+}
+.question_answer button{
+	padding: 1% 5%;
+	text-align: left;
+	border-style: solid;
+}
+.question{
+	border-style: solid;
+	border-color: black;
+	background-color: #f3e6ff;
+	margin: 1.5% 25%;
+}
+
+@media only screen and (max-width: 700px ){
+	h6{
+	font-family: "Architect's Daughter", cursive;
+	margin: 2% 0%;
+	font-size: .9em;}
+}
+@media only screen and (max-width: 1000px ){
+	.question{
+	border-style: solid;
+	border-color: black;
+	background-color: #f3e6ff;
+	margin: 1.5% 10%; }
+}
+.html_css_bg{
+	background-color: #fceef5;
+	color: navy;
+}
+
+
+
+
+.radio{
+	visibility: hidden;
+}
+label{
+	padding: 2%;
+	 color: #212529;
+  background-color: #f8f9fa;
+  padding: 2%;
+  cursor: pointer;
+  border-radius: 5%;  
+  box-shadow: 0 0 0 0.3rem rgba(216, 217, 219, 0.5);
+}
+
+.radio:checked + label {
+    background: green;
+    box-shadow: 0 0 0 0.2rem rgba(216, 217, 219, 0.5);
+    border-style: solid;
+    border-color: black;
+    color: white;
+}
+
+.container{
+	margin: 2% 8%;
+}
+
+
+.submit #Result, .submit #details{
+	padding: 1% 2%;
+	border-style: solid;
+	color: black;
+	background-color: #bbbbbb;
+	margin-bottom: 2%;
+ }
+.container .submit #button {
+	background-color: #ccf6c8;
+	color: black;
+	font-weight: bold;
+	margin-bottom: 2%;
+}
+.submit #Result:hover,.submit #details:hover {
+	color: black;
+	font-weight: bold;
+
+}
+
+.nav-item{
+	padding: 2%;
+}
+
+#count{
+  background-color: #bedbbb;
+  border-radius: 100%;
+  border-width: thick;
+  font-family: sans-serif;
+
+}
+
+table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  background: #f6f5f1;
+  font-family: cursive;
+}
+th{
+  text-align: center;
+  background: #fae0df;
+	font-variant: small-caps;
+}
+#exampleModalLabel{
+	font-family: serif;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+.modal-content{
+	size: all;
+}
+

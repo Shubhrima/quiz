@@ -1,0 +1,49 @@
+.carousel-item p,h5{
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 150%;
+}
+.btn{
+	margin: 1%;
+	border-color: black;
+	text-decoration: none;
+}
+h3{
+	text-align: center;
+	color: black;
+	font-family: "Helvetica Neue";
+	padding: 2%;
+	margin: 2% 0%;
+}
+#htmlcss{
+	background-color: #D4FAF3;
+}
+.col{
+	margin-left: 13%;
+	margin-bottom: 5%;
+}
+.card-text{
+	text-align: center;
+}
+#maths{
+	background-color: #D9FAEA;
+}
+#gk{
+	background-color: #e8ffff;
+}
+.card{
+	 width: 18rem;}
+.card-text{
+	font-weight: bold;
+	font-family: cursive;
+}
+
+@media only screen and (max-width: 700px ){
+	.col{
+	margin: 5%;
+}
+	.card{
+	 width: 8rem;}
+}
+
+
