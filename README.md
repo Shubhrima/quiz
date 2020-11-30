@@ -1,5 +1,5 @@
 <h1 align="center">Quiz </h1>
-<img src="readmeimg.jpg" alt="QUIZ">
+<img src="readmeimg.jpg" width="25%"> alt="QUIZ">
 
 <br>
 <p> Here are some 2-minute quizzes on the following topics
