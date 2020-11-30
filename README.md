@@ -11,4 +11,4 @@
  </p>
  <br>
  <p > The answers and a detailed analysis of your score can be viewed, only after submission. The quiz gets auto-submitted after 2 minutes. </p>
- <h4 align="center"<font color="blue"> Good Luck!</h4>
+ <h4 align="center">Good Luck!</h4>
